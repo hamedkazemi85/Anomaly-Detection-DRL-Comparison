@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+tqdm
+torch
+gymnasium   # or gym, but gymnasium is maintained
+scikit-learn
